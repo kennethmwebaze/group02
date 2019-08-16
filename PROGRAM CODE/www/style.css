@@ -1,0 +1,154 @@
+#downloadModels{background-color: black;
+                color:white;
+                margin-left:15%
+                }
+#img{
+	width: 235px;
+	height:70px;
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+	text-align: center;
+	padding: 0px 0px;
+}
+#down{
+	background-color: black;
+	color:white;
+	margin-left: 10%;
+}
+label{
+	font-family: "Georgia", Times, "Times New Roman", serif;
+	margin-left: 9px;
+	font-size: 11px;
+}
+.sidebar-toggle {
+  float: right !important;
+}
+  #logout{
+  	margin-left:91%;
+  	background-color:rgb(20,40,40);
+  	color: white;
+  	margin-top: 0;
+  }
+#HOME{
+	color:red;
+	font-size: 20px;
+	margin-left: 10%;
+}
+#clear{
+	background-color: black;
+	color: white;
+} 
+.main-header .logo {
+  font-family: "Georgia", Times, "Times New Roman", serif;
+  font-weight: bold;
+  margin-left: 0;
+  font-size: 24px;
+  color:black;
+  padding: 0px 0px;
+  line-height: 85px;
+  max-height: 200px;
+}  
+h2{
+	 font-family: "Times New Roman";
+	 margin-left: 28%;
+	 color:red;
+	 font-weight: bold;
+}  
+#sidebar{
+	 font-family: "Times New Roman";
+	 margin-left: 5%;
+	   font-size: 13px;
+	 color:linen;
+	 
+}  
+#panel_login{
+	margin-top: 15%;
+	color:black;
+	width: 350px;
+}
+#login{
+	background-color: green;
+	color:black;
+}
+#reset{
+	background-color: green;
+	color:black;
+}
+#exit{
+	background-color: green;
+	color:black;
+}
+#mypanel{
+	font-family: "Times New Roman";
+	color:linen;
+	height:1000,
+	width:900;
+	font-weight: bold;
+	font-size: 12px;
+}
+b{
+font-family: "Times New Roman";
+font-size: 14px;	
+color: green;
+}
+
+h4{
+	font-family: "Times New Roman";
+	font-weight: bold;
+	color:black;
+
+}
+h5{
+	font-family: "Times New Roman";
+	color:green;
+}
+p{
+	font-family: "Times New Roman";
+}
+
+
+#Graphs{
+	list-style-type: none;
+}  
+
+#message{
+	color:red;
+	margin-left: 10%;
+} \
+#message_body{
+	color:green;
+}       
+#send{
+	background-color: rgb(10,45,45);
+	color:white;
+	font-weight: bold;
+
+}  
+#file_upload{
+	background-color: rgb(10,45,45);
+	color:white;
+	font-weight: bold;
+
+}    
+#result{
+	color: black;
+} 
+#yeardisplay{
+	color: black;
+} 
+#navbar2{
+	font-family: "Tahoma";
+	margin-left: 12%;
+	margin-right: 18%;
+	color:green;
+	width:180%;
+	height:50%;
+	
+}
+#navbar2:hover{
+	background-color: linen;
+	color:green;
+	margin-left: 10%;
+	margin-right: 18%
+}

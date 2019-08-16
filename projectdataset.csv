@@ -1,0 +1,211 @@
+HospitalName,Region,ID,Category,SampleNumber,NumberOfInfections,Percentage,Age,Year
+Nsambya,Central,HIV001,Adults,300,35,11.8,35-70,2000
+Rubaga ,Central,HIV002,Children,300,32,10.7,0-17,2000
+Mbale ,Eastern,HIV003,Youth,300,17,5.5,18-34,2000
+Mbarara ,Western,HIV004,Youth,300,30,10,18-34,2000
+Arua ,NorthWest,HIV005,Adults,300,16,5.2,35-70,2000
+Lacor ,Northern,HIV006,Adults,300,16,5.2,35-70,2000
+Soroti  ,Eastern,HIV007,Children,300,39,13.1,0-17,2000
+Fort Portal ,Western,HIV008,Children,300,20,6.8,0-17,2000
+Hoima ,Western,HIV009,Children,746,119,15.9,0-17,2000
+Jinja ,Eastern,HIV010,Adults,300,29,9.5,35-70,2000
+Kabarole ,Western,HIV011,Adults,300,30,10,35-70,2000
+Virika ,Western,HIV012,Children,300,25,8.2,0-17,2000
+Mulago ,Central,HIV013,Youth,300,25,8.3,18-34,2000
+Lira ,Northern,HIV014,Adults,300,26,8.5,35-70,2000
+Nsambya,Central,HIV001,Adults,122,12,9.5,35-70,2001
+Rubaga ,Central,HIV002,Children,233,24,10.4,0-17,2001
+Mbale ,Eastern,HIV003,Youth,456,26,5.6,18-34,2001
+Mbarara ,Western,HIV004,Youth,100,11,10.6,18-34,2001
+Arua ,NorthWest,HIV005,Adults,300,14,4.8,35-70,2001
+Lacor ,Northern,HIV006,Adults,300,34,11.3,35-70,2001
+Soroti ,Eastern,HIV007,Children,103,5,5,0-17,2001
+Fort Portal ,Western,HIV008,Children,433,26,6,0-17,2001
+Hoima ,Western,HIV009,Children,677,36,5.3,0-17,2001
+Jinja ,Eastern,HIV010,Adults,400,30,7.4,35-70,2001
+Kabarole ,Western,HIV011,Adults,200,9,4.5,35-70,2001
+Virika ,Western,HIV012,Children,300,16,5.3,0-17,2001
+Mulago ,Central,HIV013,Youth,300,14,4.7,18-34,2001
+Lira ,Northern,HIV014,Adults,400,64,15.9,35-70,2001
+Nsambya,Central,HIV001,Adults,300,11,3.5,35-70,2002
+Rubaga ,Central,HIV002,Children,300,41,13.5,0-17,2002
+Mbale ,Eastern,HIV003,Youth,300,13,4.4,18-34,2002
+Mbarara ,Western,HIV004,Youth,300,45,15,18-34,2002
+Arua ,NorthWest,HIV005,Adults,300,16,5.3,35-70,2002
+Lacor ,Northern,HIV006,Adults,300,14,4.5,35-70,2002
+Soroti ,Eastern,HIV007,Children,300,27,8.9,0-17,2002
+Fort Portal ,Western,HIV008,Children,300,32,10.5,0-17,2002
+Hoima ,Western,HIV009,Children,300,37,12.3,0-17,2002
+Jinja ,Eastern,HIV010,Adults,300,11,3.7,35-70,2002
+Kabarole ,Western,HIV011,Adults,300,16,5.2,35-70,2002
+Virika ,Western,HIV012,Children,300,37,12.2,0-17,2002
+Mulago ,Central,HIV013,Youth,300,13,4.4,18-34,2002
+Lira ,Northern,HIV014,Adults,300,16,5.4,35-70,2002
+Nsambya,Central,HIV001,Adults,300,12,4,35-70,2003
+Rubaga ,Central,HIV002,Children,300,27,9.1,0-17,2003
+Mbale ,Eastern,HIV003,Youth,300,67,22.2,18-34,2003
+Mbarara ,Western,HIV004,Youth,300,7,2.3,18-34,2003
+Arua ,NorthWest,HIV005,Adults,300,20,6.7,35-70,2003
+Lacor ,Northern,HIV006,Adults,300,34,11.3,35-70,2003
+Soroti ,Eastern,HIV007,Children,300,17,5.7,0-17,2003
+Fort Portal ,Western,HIV008,Children,300,19,6.2,0-17,2003
+Hoima ,Western,HIV009,Children,300,20,6.7,0-17,2003
+Jinja ,Eastern,HIV010,Adults,300,23,7.8,35-70,2003
+Kabarole ,Western,HIV011,Adults,300,11,3.5,35-70,2003
+Virika ,Western,HIV012,Children,300,19,6.4,0-17,2003
+Mulago ,Central,HIV013,Youth,300,10,3.4,18-34,2003
+Lira ,Northern,HIV014,Adults,300,13,4.2,35-70,2003
+Nsambya,Central,HIV001,Adults,300,17,5.7,35-70,2004
+Rubaga ,Central,HIV002,Children,300,14,4.8,0-17,2004
+Mbale ,Eastern,HIV003,Youth,300,9,3.1,18-34,2004
+Mbarara ,Western,HIV004,Youth,300,15,4.9,18-34,2004
+Arua ,NorthWest,HIV005,Adults,300,11,3.5,35-70,2004
+Lacor ,Northern,HIV006,Adults,300,38,12.5,35-70,2004
+Soroti ,Eastern,HIV007,Children,300,11,3.6,0-17,2004
+Fort Portal ,Western,HIV008,Children,300,35,11.5,0-17,2004
+Hoima ,Western,HIV009,Children,300,29,9.5,0-17,2004
+Jinja ,Eastern,HIV010,Adults,300,26,8.5,35-70,2004
+Kabarole ,Western,HIV011,Adults,300,19,6.4,35-70,2004
+Virika ,Western,HIV012,Children,300,17,5.7,0-17,2004
+Mulago ,Central,HIV013,Youth,300,32,10.5,18-34,2004
+Lira ,Northern,HIV014,Adults,300,28,9.4,35-70,2004
+Nsambya,Central,HIV001,Adults,300,23,7.6,35-70,2005
+Rubaga ,Central,HIV002,Children,300,21,7.1,0-17,2005
+Mbale ,Eastern,HIV003,Youth,300,22,7.4,18-34,2005
+Mbarara ,Western,HIV004,Youth,300,33,11.1,18-34,2005
+Arua ,NorthWest,HIV005,Adults,300,27,9,35-70,2005
+Lacor ,Northern,HIV006,Adults,300,33,11,35-70,2005
+Soroti ,Eastern,HIV007,Children,300,21,7.1,0-17,2005
+Fort Portal ,Western,HIV008,Children,300,22,7.4,0-17,2005
+Hoima ,Western,HIV009,Children,300,16,5.4,0-17,2005
+Jinja ,Eastern,HIV010,Adults,300,25,8.4,35-70,2005
+Kabarole ,Western,HIV011,Adults,300,23,7.5,35-70,2005
+Virika ,Western,HIV012,Children,300,14,4.6,0-17,2005
+Mulago ,Central,HIV013,Youth,300,17,5.8,18-34,2005
+Lira ,Northern,HIV014,Adults,300,19,6.3,35-70,2005
+Nsambya,Central,HIV001,Adults,300,21,7.1,35-70,2006
+Rubaga ,Central,HIV002,Children,300,14,4.8,0-17,2006
+Mbale ,Eastern,HIV003,Youth,300,67,22.2,18-34,2006
+Mbarara ,Western,HIV004,Youth,300,32,10.8,18-34,2006
+Arua ,NorthWest,HIV005,Adults,300,14,4.8,35-70,2006
+Lacor ,Northern,HIV006,Adults,300,39,13.1,35-70,2006
+Soroti ,Eastern,HIV007,Children,300,15,5,0-17,2006
+Fort Portal ,Western,HIV008,Children,300,11,3.6,0-17,2006
+Hoima ,Western,HIV009,Children,300,38,12.5,0-17,2006
+Jinja ,Eastern,HIV010,Adults,300,22,7.3,35-70,2006
+Kabarole ,Western,HIV011,Adults,300,35,11.8,35-70,2006
+Virika ,Western,HIV012,Children,300,32,10.7,0-17,2006
+Mulago ,Central,HIV013,Youth,300,17,5.5,18-34,2006
+Lira ,Northern,HIV014,Adults,300,27,9.1,35-70,2006
+Nsambya,Central,HIV001,Adults,300,25,8.4,35-70,2007
+Rubaga ,Central,HIV002,Children,300,23,7.8,0-17,2007
+Mbale ,Eastern,HIV003,Youth,300,24,8,18-34,2007
+Mbarara ,Western,HIV004,Youth,300,41,13.7,18-34,2007
+Arua ,NorthWest,HIV005,Adults,300,11,3.8,35-70,2007
+Lacor ,Northern,HIV006,Adults,300,27,9,35-70,2007
+Soroti ,Eastern,HIV007,Children,300,21,7.1,0-17,2007
+Fort Portal ,Western,HIV008,Children,300,20,6.7,0-17,2007
+Hoima ,Western,HIV009,Children,300,28,9.2,0-17,2007
+Jinja ,Eastern,HIV010,Adults,300,22,7.4,35-70,2007
+Kabarole ,Western,HIV011,Adults,300,30,10,35-70,2007
+Virika ,Western,HIV012,Children,300,16,5.2,0-17,2007
+Mulago ,Central,HIV013,Youth,300,39,13.1,18-34,2007
+Lira ,Northern,HIV014,Adults,300,5,1.7,35-70,2007
+Nsambya,Central,HIV001,Adults,300,5,1.5,35-70,2008
+Rubaga ,Central,HIV002,Children,300,16,5.3,0-17,2008
+Mbale ,Eastern,HIV003,Youth,300,15,5,18-34,2008
+Mbarara ,Western,HIV004,Youth,300,25,8.3,18-34,2008
+Arua ,NorthWest,HIV005,Adults,300,22,7.4,35-70,2008
+Lacor ,Northern,HIV006,Adults,300,23,7.8,35-70,2008
+Soroti ,Eastern,HIV007,Children,300,7,2.4,0-17,2008
+Fort Portal ,Western,HIV008,Children,300,40,13.4,0-17,2008
+Hoima ,Western,HIV009,Children,300,29,9.5,0-17,2008
+Jinja ,Eastern,HIV010,Adults,300,17,5.6,35-70,2008
+Kabarole ,Western,HIV011,Adults,300,26,8.7,35-70,2008
+Virika ,Western,HIV012,Children,300,29,9.7,0-17,2008
+Mulago ,Central,HIV013,Youth,300,17,5.6,18-34,2008
+Lira ,Northern,HIV014,Adults,300,23,7.8,35-70,2008
+Nsambya,Central,HIV001,Adults,300,22,7.2,35-70,2009
+Rubaga ,Central,HIV002,Children,300,23,7.5,0-17,2009
+Mbale ,Eastern,HIV003,Youth,300,21,6.9,18-34,2009
+Mbarara ,Western,HIV004,Youth,300,35,11.8,18-34,2009
+Arua ,NorthWest,HIV005,Adults,300,13,4.4,35-70,2009
+Lacor ,Northern,HIV006,Adults,300,33,11,35-70,2009
+Soroti ,Eastern,HIV007,Children,300,26,8.8,0-17,2009
+Fort Portal ,Western,HIV008,Children,300,32,10.8,0-17,2009
+Hoima ,Western,HIV009,Children,300,27,9.1,0-17,2009
+Jinja ,Eastern,HIV010,Adults,300,25,8.4,35-70,2009
+Kabarole ,Western,HIV011,Adults,300,16,5.3,35-70,2009
+Virika ,Western,HIV012,Children,300,15,5,0-17,2009
+Mulago ,Central,HIV013,Youth,300,32,10.6,18-34,2009
+Lira ,Northern,HIV014,Adults,300,20,6.5,35-70,2009
+Nsambya,Central,HIV001,Adults,300,25,8.3,35-70,2010
+Rubaga ,Central,HIV002,Children,300,21,7.1,0-17,2010
+Mbale ,Eastern,HIV003,Youth,300,9,3,18-34,2010
+Mbarara ,Western,HIV004,Youth,300,24,7.9,18-34,2010
+Arua ,NorthWest,HIV005,Adults,300,6,2,35-70,2010
+Lacor ,Northern,HIV006,Adults,300,17,5.5,35-70,2010
+Soroti ,Eastern,HIV007,Children,300,22,7.4,0-17,2010
+Fort Portal ,Western,HIV008,Children,300,17,5.6,0-17,2010
+Hoima ,Western,HIV009,Children,300,29,9.7,0-17,2010
+Jinja ,Eastern,HIV010,Adults,300,21,6.9,35-70,2010
+Kabarole ,Western,HIV011,Adults,300,29,9.5,35-70,2010
+Virika ,Western,HIV012,Children,300,24,8.1,0-17,2010
+Mulago ,Central,HIV013,Youth,300,17,5.7,18-34,2010
+Lira ,Northern,HIV014,Adults,300,13,4.2,35-70,2010
+Nsambya,Central,HIV001,Adults,300,21,6.9,35-70,2011
+Rubaga ,Central,HIV002,Children,300,25,8.2,0-17,2011
+Mbale ,Eastern,HIV003,Youth,300,20,6.6,18-34,2011
+Mbarara ,Western,HIV004,Youth,300,41,13.5,18-34,2011
+Arua ,NorthWest,HIV005,Adults,300,7,2.4,35-70,2011
+Lacor ,Northern,HIV006,Adults,300,29,9.5,35-70,2011
+Soroti ,Eastern,HIV007,Children,300,20,6.7,0-17,2011
+Fort Portal ,Western,HIV008,Children,300,24,8.1,0-17,2011
+Hoima ,Western,HIV009,Children,300,35,11.6,0-17,2011
+Jinja ,Eastern,HIV010,Adults,300,28,9.2,35-70,2011
+Kabarole ,Western,HIV011,Adults,300,15,4.9,35-70,2011
+Virika ,Western,HIV012,Children,300,21,7.1,0-17,2011
+Mulago ,Central,HIV013,Youth,300,21,6.9,18-34,2011
+Lira ,Northern,HIV014,Adults,300,14,4.8,35-70,2011
+Nsambya,Central,HIV001,Adults,300,16,5.3,35-70,2012
+Rubaga ,Central,HIV002,Children,300,20,6.8,0-17,2012
+Mbale ,Eastern,HIV003,Youth,300,41,13.5,18-34,2012
+Mbarara ,Western,HIV004,Youth,300,7,2.4,18-34,2012
+Arua ,NorthWest,HIV005,Adults,300,29,9.5,35-70,2012
+Lacor ,Northern,HIV006,Adults,300,25,8.4,35-70,2012
+Soroti ,Eastern,HIV007,Children,300,26,8.5,0-17,2012
+Fort Portal ,Western,HIV008,Children,300,27,9.1,0-17,2012
+Hoima ,Western,HIV009,Children,300,50,16.7,0-17,2012
+Jinja ,Eastern,HIV010,Adults,300,24,8.1,35-70,2012
+Kabarole ,Western,HIV011,Adults,300,68,22.5,35-70,2012
+Virika ,Western,HIV012,Children,300,7,2.3,0-17,2012
+Mulago ,Central,HIV013,Youth,300,14,4.8,18-34,2012
+Lira ,Northern,HIV014,Adults,300,17,5.5,35-70,2012
+Nsambya,Central,HIV001,Adults,300,16,5.3,35-70,2013
+Rubaga ,Central,HIV002,Children,300,27,9.1,0-17,2013
+Mbale ,Eastern,HIV003,Youth,300,17,5.6,18-34,2013
+Mbarara ,Western,HIV004,Youth,300,20,6.7,18-34,2013
+Arua ,NorthWest,HIV005,Adults,300,5,1.5,35-70,2013
+Lacor ,Northern,HIV006,Adults,300,24,7.9,35-70,2013
+Soroti ,Eastern,HIV007,Children,300,35,11.8,0-17,2013
+Fort Portal ,Western,HIV008,Children,300,42,13.9,0-17,2013
+Hoima ,Western,HIV009,Children,300,14,4.8,0-17,2013
+Jinja ,Eastern,HIV010,Adults,300,16,5.2,35-70,2013
+Kabarole ,Western,HIV011,Adults,300,28,9.2,35-70,2013
+Virika ,Western,HIV012,Children,300,25,8.4,0-17,2013
+Mulago ,Central,HIV013,Youth,300,23,7.6,18-34,2013
+Lira ,Northern,HIV014,Adults,300,17,5.7,35-70,2013
+Nsambya,Central,HIV001,Adults,300,12,4,35-70,2014
+Rubaga ,Central,HIV002,Children,300,25,8.4,0-17,2014
+Mbale ,Eastern,HIV003,Youth,300,19,6.3,18-34,2014
+Mbarara ,Western,HIV004,Youth,300,24,7.9,18-34,2014
+Arua ,NorthWest,HIV005,Adults,300,26,8.7,35-70,2014
+Lacor ,Northern,HIV006,Adults,300,8,2.7,35-70,2014
+Soroti ,Eastern,HIV007,Children,300,35,11.8,0-17,2014
+Fort Portal ,Western,HIV008,Children,300,19,6.4,0-17,2014
+Hoima ,Western,HIV009,Children,300,32,10.7,0-17,2014
+Jinja ,Eastern,HIV010,Adults,300,29,9.7,35-70,2014
+Kabarole ,Western,HIV011,Adults,300,26,8.6,35-70,2014
+Virika ,Western,HIV012,Children,300,21,7.1,0-17,2014
+Mulago ,Central,HIV013,Youth,300,14,4.8,18-34,2014
+Lira ,Northern,HIV014,Adults,300,21,6.9,35-70,2014
